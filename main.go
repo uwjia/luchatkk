@@ -2,7 +2,7 @@ package main
 
 import (
 	"fmt"
-	"github.com/uwjia/lufirst/somefm"
+	"github.com/uwjia/lufirst/v1/somefm"
 )
 
 func main() {
